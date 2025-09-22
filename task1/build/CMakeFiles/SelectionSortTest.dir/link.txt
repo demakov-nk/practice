@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/SelectionSortTest.dir/tests/selection_sort_test.c.o -o SelectionSortTest  libSelectionSort.a 

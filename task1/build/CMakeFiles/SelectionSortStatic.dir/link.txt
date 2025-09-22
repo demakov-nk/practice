@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSelectionSort.a CMakeFiles/SelectionSortStatic.dir/src/selection_sort.c.o
+/usr/bin/ranlib libSelectionSort.a

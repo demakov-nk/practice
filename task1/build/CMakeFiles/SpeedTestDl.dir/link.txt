@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/SpeedTestDl.dir/tests/dl_speedtest.c.o -o SpeedTestDl  -ldl 

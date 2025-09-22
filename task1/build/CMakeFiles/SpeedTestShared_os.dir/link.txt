@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/SpeedTestShared_os.dir/tests/shared_speedtest.c.o -o SpeedTestShared_os  -Wl,-rpath,/home/demakov/task1/build libSelectionSort.so 

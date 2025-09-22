@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/SpeedTestStatic_o2.dir/tests/static_speedtest.c.o -o SpeedTestStatic_o2  libSelectionSort.a 
